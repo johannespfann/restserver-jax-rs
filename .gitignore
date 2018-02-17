@@ -1,0 +1,7 @@
+# intellj specifics
+*.iml
+
+# maven specifics
+/target
+
+
